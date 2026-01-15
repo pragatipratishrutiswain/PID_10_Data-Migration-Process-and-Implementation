@@ -18,3 +18,4 @@ Most organizations underestimate what data migration truly involves. A team migh
 These challenges multiply when working with legacy systems or when merging data from multiple sources.
 
 
+<img width="198" height="76" alt="image" src="https://github.com/user-attachments/assets/e6e2f3a2-3c32-4d3c-a859-4536e81d67b1" />
