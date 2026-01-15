@@ -68,4 +68,5 @@ When a business is starting to expand or scaling up, it needs to migrate its raw
 ## Examples of ERP systems:
 <img width="930" height="156" alt="image" src="https://github.com/user-attachments/assets/53721549-fe80-4727-9be7-2f6ac69224d9" />
 
+
 📌 There is Open Data pre-exisitng in the ERP system from the day it has been commenced. That is where the data migration comes into picture.
