@@ -63,7 +63,8 @@ Accurate and reliable data migration is crucial for organizations, but the proce
 When a business is starting to expand or scaling up, it needs to migrate its raw data from source file, for e.g. CSV/Excel sheet to the ERP system.
 
 
-<img width="640" height="272" alt="image" src="https://github.com/user-attachments/assets/440b400f-796b-4d3f-ad28-2296ceca94ad" />
+<img width="630" height="223" alt="image" src="https://github.com/user-attachments/assets/5fac3027-3c24-4951-a87a-5dd145bd832d" />
+
 
 ## Examples of ERP systems:
 <img width="930" height="156" alt="image" src="https://github.com/user-attachments/assets/53721549-fe80-4727-9be7-2f6ac69224d9" />
