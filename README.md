@@ -58,3 +58,14 @@ Accurate and reliable data migration is crucial for organizations, but the proce
 1️⃣1️⃣ **Lack of Expertise:** In-house teams might not have specialized skills for complex migrations, leading to potential errors or oversights.
 
 1️⃣2️⃣ **Regulatory Challenges:** For certain industries or data types, migrations need to adhere to strict regulatory guidelines, adding another layer of complexity.
+
+## Real world scenario of a Data Migration requirement: 
+When a business is starting to expand or scaling up, it needs to migrate its raw data from source file, for e.g. CSV/Excel sheet to the ERP system.
+
+
+<img width="640" height="272" alt="image" src="https://github.com/user-attachments/assets/440b400f-796b-4d3f-ad28-2296ceca94ad" />
+
+Examples of ERP systems:
+<img width="930" height="156" alt="image" src="https://github.com/user-attachments/assets/53721549-fe80-4727-9be7-2f6ac69224d9" />
+
+
