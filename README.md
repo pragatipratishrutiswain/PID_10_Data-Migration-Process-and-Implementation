@@ -65,7 +65,7 @@ When a business is starting to expand or scaling up, it needs to migrate its raw
 
 <img width="640" height="272" alt="image" src="https://github.com/user-attachments/assets/440b400f-796b-4d3f-ad28-2296ceca94ad" />
 
-# Examples of ERP systems:
+## Examples of ERP systems:
 <img width="930" height="156" alt="image" src="https://github.com/user-attachments/assets/53721549-fe80-4727-9be7-2f6ac69224d9" />
 
 
