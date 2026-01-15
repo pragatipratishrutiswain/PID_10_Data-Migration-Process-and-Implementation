@@ -7,7 +7,8 @@
 Data represents a company’s digital foundation such as
 - Customer relationships
 - Operational insights
-- Financial records
+- Financial records,
+  
 all riding on a successful transition.
 
 **System upgrades, server changes, and cloud migrations** all demand moving the valuable information without compromise.
