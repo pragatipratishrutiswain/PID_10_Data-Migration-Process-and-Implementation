@@ -17,5 +17,5 @@ Most organizations underestimate what data migration truly involves. A team migh
 - quality inconsistencies that only become apparent mid-project.
 These challenges multiply when working with legacy systems or when merging data from multiple sources.
 
+<img width="902" height="398" alt="image" src="https://github.com/user-attachments/assets/683279ea-913f-4a52-8f67-70625bad2b99" />
 
-<img width="198" height="76" alt="image" src="https://github.com/user-attachments/assets/e6e2f3a2-3c32-4d3c-a859-4536e81d67b1" />
