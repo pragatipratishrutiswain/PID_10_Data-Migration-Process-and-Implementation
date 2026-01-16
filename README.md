@@ -72,4 +72,7 @@ When a business is starting to expand or scaling up, it needs to migrate its raw
 
 ## Data Migration Pipeline:
 
-<img width="760" height="430" alt="image" src="https://github.com/user-attachments/assets/d96a7af2-d955-45c5-997c-6f699e1a6efd" />
+<img width="761" height="427" alt="image" src="https://github.com/user-attachments/assets/7ff176ef-2ae4-486e-9f4d-8c1e3bb10dee" />
+
+
+
