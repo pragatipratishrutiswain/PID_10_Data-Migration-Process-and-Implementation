@@ -76,7 +76,8 @@ When a business is starting to expand or scaling up, it needs to migrate its raw
 
 ## Steps of data migration:
 
-<img width="758" height="430" alt="image" src="https://github.com/user-attachments/assets/e7442caa-5cb6-4b6a-b562-d05fb2fe39de" />
+<img width="756" height="427" alt="image" src="https://github.com/user-attachments/assets/73941fb5-1578-45a5-80fe-1904fe6df65c" />
+
 
 
 
