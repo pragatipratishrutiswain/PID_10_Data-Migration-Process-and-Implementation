@@ -65,9 +65,11 @@ When a business is starting to expand or scaling up, it needs to migrate its raw
 
 <img width="630" height="223" alt="image" src="https://github.com/user-attachments/assets/5fac3027-3c24-4951-a87a-5dd145bd832d" />
 
-
 ## Examples of ERP systems:
 <img width="930" height="156" alt="image" src="https://github.com/user-attachments/assets/53721549-fe80-4727-9be7-2f6ac69224d9" />
 
-
 📌 There is Open Data pre-exisitng in the ERP system from the day it has been commenced. That is where the data migration comes into picture.
+
+## Data Migration Pipeline:
+
+<img width="760" height="430" alt="image" src="https://github.com/user-attachments/assets/d96a7af2-d955-45c5-997c-6f699e1a6efd" />
